@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1ff3f4f6-db54-4446-a367-0c4c06dd03c0/deploy-status)](https://app.netlify.com/sites/my-vue-quiz/deploys)
+
 # quiz
 
 ## Project setup
